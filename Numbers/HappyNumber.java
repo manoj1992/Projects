@@ -5,7 +5,6 @@ import java.util.ArrayList;
  * number.
  * 
  * Happy Number: http://en.wikipedia.org/wiki/Happy_number
- * 
  *
  * @author manojreddy
  *
